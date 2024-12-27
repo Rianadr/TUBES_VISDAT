@@ -1,8 +1,8 @@
 # Produced by
 
-Rian Adriansyah - 1301213346
-M Ilham Yushronni - 1301213447
-Viego Naufal Salsabil - 130121
+1. Rian Adriansyah - 1301213346
+2. M Ilham Yushronni - 1301213447
+3. Viego Naufal Salsabil - 1301213418
 
 # World University Rankings Explorer (2016-2025)
 

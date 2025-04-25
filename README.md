@@ -1,9 +1,3 @@
-# Produced by
-
-1. Rian Adriansyah - 1301213346
-2. M Ilham Yushronni - 1301213447
-3. Viego Naufal Salsabil - 1301213418
-
 # World University Rankings Explorer (2016-2025)
 
 Selamat datang di **World University Rankings Explorer**! 🎓 Aplikasi ini dirancang untuk mengeksplorasi data peringkat universitas dunia berdasarkan berbagai metrik selama periode 2016 hingga 2025. Dengan fitur interaktif dan visualisasi yang menarik, Anda dapat menjelajahi tren pendidikan tinggi global, menganalisis kinerja universitas, dan membandingkan institusi akademis secara menyeluruh. 🌍✨
